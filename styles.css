@@ -19,7 +19,7 @@ nav a:hover{
 }
 
 /*Estilo para la seccion principal*/
-.contenedor{
+main{
     width: 90%;
     margin: 20px auto;
     padding: 15px;
@@ -28,11 +28,11 @@ nav a:hover{
     box-shadow: 0 0 10px rgb(0, 0, 130.1);
 }
 
-.contenedor h2{
+main h2{
     color: #333;
 }
 
-.contenedor p{
+main p{
     color: #17f10f;
     font-size: 16px;
     line-height: 1.6;
